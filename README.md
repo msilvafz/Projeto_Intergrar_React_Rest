@@ -36,3 +36,5 @@ O objetivo deste projeto é desenvolver o **backend** de uma aplicação web com
 - **Kevinn Berliet dos Santos Monteiro**
 - **Vitor Tissaleah Bezerra**
 - **Wesley Matheus Santos Silva**
+
+- **Lembrar de dar rename no node-modules **(Backend / Frontend)**

@@ -1,4 +1,4 @@
-# 🚀 Desenvolvimento de Backend com RESTful e GraphQL
+# 🚀 Desenvolvimento de Backend com RESTful e Frontend com React
 
 ## 📜 Projeto
 
